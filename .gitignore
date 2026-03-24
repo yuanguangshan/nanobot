@@ -22,3 +22,5 @@ poetry.lock
 botpy.log
 nano.*.save
 .ai/context.json
+.DS_Store
+uv.lock
